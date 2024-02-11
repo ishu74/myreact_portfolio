@@ -1,0 +1,19 @@
+[
+  {
+    "title": "NewsApp",
+    "imageSrc": "projects/project.png",
+    "description": "This is a NewsApp where user can read news of different categories.",
+    "skills": ["React", "NewsApi"],
+    "demo": "",
+    "source": ""
+  },
+  {
+    "title": "Blog Page",
+    "imageSrc": "projects/blogapp.png",
+    "description": "In this Blog app user can perform CRUD operation while uploading his post.",
+    "skills": ["React","Appwrite"],
+    "demo": "",
+    "source": "https://github.com/ishu74/mini_X.git"
+  }
+  
+]
